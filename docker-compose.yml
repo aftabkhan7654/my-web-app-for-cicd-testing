@@ -5,5 +5,5 @@ services:
     image: simple-web-page
     build: .
     ports:
-      - "8080:80"
+      - "9000:80"
     restart: always
