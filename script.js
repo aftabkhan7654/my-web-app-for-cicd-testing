@@ -1,3 +1,3 @@
 function displayMessage() {
-    document.getElementById('message').innerText = "Hello, this is a message from JavaScript!";
+    document.getElementById('message').innerText = "Hello, I am just click the button!";
 }
